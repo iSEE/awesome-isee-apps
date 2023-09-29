@@ -47,6 +47,12 @@ List of known iSEE apps publicly deployed
 
 **More:** This app accompanies the article <https://www.frontiersin.org/articles/10.3389/fviro.2021.714475/full>.
 
+## Comparison of SARS-CoV-1 and SARS-CoV-2 
+
+- **URL:** <https://shiny.mdc-berlin.de/COV/>
+- **Maintainer:** [Max Delbrück Center](https://www.mdc-berlin.de/)
+- **Version:** iSEE {1.6.1}
+
 ## Demonstration iSEE apps (2018)
 
 - **URL (single-cell RNA-seq, mouse visual cortex):** <https://marionilab.cruk.cam.ac.uk/iSEE_allen>

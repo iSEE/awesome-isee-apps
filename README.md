@@ -8,9 +8,9 @@ List of known iSEE apps publicly deployed
 - **Maintainer:** [Rehwinkel group](https://www.imm.ox.ac.uk/research/research-groups/rehwinkel-group-nucleic-acid-sensing)
 - **Version:** iSEE {2.12.0}, iSEEindex {0.99.13}, iSEEde {0.99.0}
 
-**More:** This app accompanies the biorXiv preprint [Single-cell analysis of signalling and transcriptional responses to type I interferons](https://www.biorxiv.org/content/10.1101/2023.07.03.547491v1).
+**More:** This app accompanies the preprint [Single-cell analysis of signalling and transcriptional responses to type I interferons](https://www.biorxiv.org/content/10.1101/2023.07.03.547491v1).
 
-## Demonstration iSEEindex app (2023)
+## iSEEindex demo (2023)
 
 - **URL:** <https://isee.shinyapps.io/iSEEindex-demo/>
 - **Maintainer:** [iSEE developers](https://github.com/iSEE)
@@ -38,6 +38,14 @@ List of known iSEE apps publicly deployed
 - **URL:** <https://ccb-rstudio-connect.hms.harvard.edu/iSEE_enterprise/>
 - **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/)
 - **Version:** iSEE {2.4.0}
+
+## HI-TEAM (HIV-Infected cell Transcriptome and EpitrAnscriptoMe)
+
+- **URL:** <https://hi-team.unil.ch/#>
+- **Maintainer:** [Ciuffi Lab](https://www.chuv.ch/en/microbiologie/imu-home/research/research-groups/angela-ciuffi)
+- **Version:** iSEE {2.1.10}, iSEEu {1.1.4}
+
+**More:** This app accompanies the article <https://www.frontiersin.org/articles/10.3389/fviro.2021.714475/full>.
 
 ## Demonstration iSEE apps (2018)
 

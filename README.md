@@ -39,14 +39,6 @@ List of known iSEE apps publicly deployed
 - **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/)
 - **Version:** iSEE {2.4.0}
 
-## HI-TEAM (HIV-Infected cell Transcriptome and EpitrAnscriptoMe)
-
-- **URL:** <https://hi-team.unil.ch/#>
-- **Maintainer:** [Ciuffi Lab](https://www.chuv.ch/en/microbiologie/imu-home/research/research-groups/angela-ciuffi)
-- **Version:** iSEE {2.1.10}, iSEEu {1.1.4}
-
-**More:** This app accompanies the article <https://www.frontiersin.org/articles/10.3389/fviro.2021.714475/full>.\
-
 ## Single-nucleus transcriptome analysis in human brain
 
 - **URL:** <https://libd.shinyapps.io/tran2020_Amyg/>
@@ -58,7 +50,15 @@ List of known iSEE apps publicly deployed
 - **Version:** iSEE {2.4.0}
 - **Maintainer:** [The Lieber Institute for Brain Development](https://www.libd.org/)
 
-**More:** Those apps accompany the article <https://www.cell.com/neuron/fulltext/S0896-6273(21)00655-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627321006553%3Fshowall%3Dtrue>
+**More:** Those apps accompany the article <https://www.cell.com/neuron/fulltext/S0896-6273(21)00655-3>
+
+## HI-TEAM (HIV-Infected cell Transcriptome and EpitrAnscriptoMe)
+
+- **URL:** <https://hi-team.unil.ch/#>
+- **Maintainer:** [Ciuffi Lab](https://www.chuv.ch/en/microbiologie/imu-home/research/research-groups/angela-ciuffi)
+- **Version:** iSEE {2.1.10}, iSEEu {1.1.4}
+
+**More:** This app accompanies the article <https://www.frontiersin.org/articles/10.3389/fviro.2021.714475/full>.\
 
 ## Comparison of SARS-CoV-1 and SARS-CoV-2 
 

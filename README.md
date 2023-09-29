@@ -5,7 +5,7 @@ List of known iSEE apps publicly deployed
 ## FGCZ Fancy Single Cell Explorer
 
 - **URL:** <https://fgcz-shiny.uzh.ch/fgcz_iSEE/>
-- **Maintainer:** Functional Genomics Center Zurich (FGCZ)
+- **Maintainer:** [Functional Genomics Center Zurich (FGCZ)][fgcz-ch]
 
 **More:** This app is listed at <https://fgcz-shiny.uzh.ch/connect/>, among other interactive apps from the same developer.
 
@@ -13,14 +13,19 @@ List of known iSEE apps publicly deployed
 
 - **URL (hypothalamus):** <https://moffittlab.connect.hms.harvard.edu/iSEE_hypothalamus/>
 - **URL (ileum):** <https://moffittlab.connect.hms.harvard.edu/iSEE_ileum/>
-- **Maintainer:** Center for Computational Biomedicine (CCB) Harvard Medical School
+- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School][ccb-hms]
 
 **More:** Those apps are listed at <https://moffittlab.connect.hms.harvard.edu/merfish/merfish_homepage.html>
 
 ## Upload your own SummarizedExperiment (CCB HMS)
 
 - **URL:** <https://ccb-rstudio-connect.hms.harvard.edu/iSEE_enterprise/>
-- **Maintainer:** Center for Computational Biomedicine (CCB) Harvard Medical School
+- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School][ccb-hms]
+
+##
+
+- **URL:** <https://rehwinkellab.shinyapps.io/ifnresource/>
+- **Maintainer:** [Rehwinkel group](https://www.imm.ox.ac.uk/research/research-groups/rehwinkel-group-nucleic-acid-sensing)
 
 ## Demonstration iSEE apps (2018)
 
@@ -30,3 +35,6 @@ List of known iSEE apps publicly deployed
 - **URL (mass cytometry, healthy and diseased human donors):** <https://marionilab.cruk.cam.ac.uk/iSEE_cytof>
 
 **More:** Those apps are listed at <https://marionilab.cruk.cam.ac.uk/>, among other interactive apps from the same developer.
+
+[ccb-hms]: https://computationalbiomed.hms.harvard.edu/
+[fgcz-ch]: https://fgcz.ch/

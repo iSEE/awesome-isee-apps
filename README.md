@@ -21,3 +21,12 @@ List of known iSEE apps publicly deployed
 
 - **URL:** <https://ccb-rstudio-connect.hms.harvard.edu/iSEE_enterprise/>
 - **Maintainer:** Center for Computational Biomedicine (CCB) Harvard Medical School
+
+## Demonstration iSEE apps (2018)
+
+- **URL (single-cell RNA-seq, mouse visual cortex):** <https://marionilab.cruk.cam.ac.uk/iSEE_allen>
+- **URL (RNA-seq, The Cancer Genome Atlas):** <https://marionilab.cruk.cam.ac.uk/iSEE_tcga>
+- **URL (single-cell RNA-seq, peripheral blood mononuclear cells):** <https://marionilab.cruk.cam.ac.uk/iSEE_pbmc4k>
+- **URL (mass cytometry, healthy and diseased human donors):** <https://marionilab.cruk.cam.ac.uk/iSEE_cytof>
+
+**More:** Those apps are listed at <https://marionilab.cruk.cam.ac.uk/>, among other interactive apps from the same developer.

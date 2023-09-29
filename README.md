@@ -45,7 +45,19 @@ List of known iSEE apps publicly deployed
 - **Maintainer:** [Ciuffi Lab](https://www.chuv.ch/en/microbiologie/imu-home/research/research-groups/angela-ciuffi)
 - **Version:** iSEE {2.1.10}, iSEEu {1.1.4}
 
-**More:** This app accompanies the article <https://www.frontiersin.org/articles/10.3389/fviro.2021.714475/full>.
+**More:** This app accompanies the article <https://www.frontiersin.org/articles/10.3389/fviro.2021.714475/full>.\
+
+## Single-nucleus transcriptome analysis in human brain
+
+- **URL:** <https://libd.shinyapps.io/tran2020_Amyg/>
+- **URL:** <https://libd.shinyapps.io/tran2021_NAc/>
+- **URL:** <https://libd.shinyapps.io/tran2021_sACC/>
+- **URL:** <https://libd.shinyapps.io/tran2021_DLPFC/>
+- **URL:** <https://libd.shinyapps.io/tran2021_AMY/>
+- **URL:** <https://libd.shinyapps.io/tran2021_HPC/>
+- **Maintainer:** [The Lieber Institute for Brain Development](https://www.libd.org/)
+
+**More:** Those apps accompany the article <https://www.cell.com/neuron/fulltext/S0896-6273(21)00655-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627321006553%3Fshowall%3Dtrue>
 
 ## Comparison of SARS-CoV-1 and SARS-CoV-2 
 

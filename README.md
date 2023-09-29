@@ -55,6 +55,7 @@ List of known iSEE apps publicly deployed
 - **URL:** <https://libd.shinyapps.io/tran2021_DLPFC/>
 - **URL:** <https://libd.shinyapps.io/tran2021_AMY/>
 - **URL:** <https://libd.shinyapps.io/tran2021_HPC/>
+- **Version:** iSEE {2.4.0}
 - **Maintainer:** [The Lieber Institute for Brain Development](https://www.libd.org/)
 
 **More:** Those apps accompany the article <https://www.cell.com/neuron/fulltext/S0896-6273(21)00655-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627321006553%3Fshowall%3Dtrue>

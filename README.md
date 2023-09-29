@@ -13,7 +13,7 @@ List of known iSEE apps publicly deployed
 ## FGCZ Fancy Single Cell Explorer
 
 - **URL:** <https://fgcz-shiny.uzh.ch/fgcz_iSEE/>
-- **Maintainer:** [Functional Genomics Center Zurich (FGCZ)][fgcz-ch]
+- **Maintainer:** [Functional Genomics Center Zurich (FGCZ)](https://fgcz.ch/)
 - **Version:** iSEE {2.12.0}
 
 **More:** This app is listed at <https://fgcz-shiny.uzh.ch/connect/>, among other interactive apps from the same developer.
@@ -39,9 +39,9 @@ List of known iSEE apps publicly deployed
 - **URL (RNA-seq, The Cancer Genome Atlas):** <https://marionilab.cruk.cam.ac.uk/iSEE_tcga>
 - **URL (single-cell RNA-seq, peripheral blood mononuclear cells):** <https://marionilab.cruk.cam.ac.uk/iSEE_pbmc4k>
 - **URL (mass cytometry, healthy and diseased human donors):** <https://marionilab.cruk.cam.ac.uk/iSEE_cytof>
+- **Maintainer:** [Marioni group](https://www.cruk.cam.ac.uk/research-groups/marioni-group)
 - **Version:** iSEE {1.2.4}
 
 **More:** Those apps are listed at <https://marionilab.cruk.cam.ac.uk/>, among other interactive apps from the same developer.
 
 [ccb-hms]: https://computationalbiomed.hms.harvard.edu/
-[fgcz-ch]: https://fgcz.ch/

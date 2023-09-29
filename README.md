@@ -39,6 +39,7 @@ List of known iSEE apps publicly deployed
 - **URL (RNA-seq, The Cancer Genome Atlas):** <https://marionilab.cruk.cam.ac.uk/iSEE_tcga>
 - **URL (single-cell RNA-seq, peripheral blood mononuclear cells):** <https://marionilab.cruk.cam.ac.uk/iSEE_pbmc4k>
 - **URL (mass cytometry, healthy and diseased human donors):** <https://marionilab.cruk.cam.ac.uk/iSEE_cytof>
+- **Version:** iSEE {1.2.4}
 
 **More:** Those apps are listed at <https://marionilab.cruk.cam.ac.uk/>, among other interactive apps from the same developer.
 

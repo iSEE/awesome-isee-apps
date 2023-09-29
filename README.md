@@ -22,15 +22,15 @@ List of known iSEE apps publicly deployed
 
 - **URL (hypothalamus):** <https://moffittlab.connect.hms.harvard.edu/iSEE_hypothalamus/>
 - **URL (ileum):** <https://moffittlab.connect.hms.harvard.edu/iSEE_ileum/>
-- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School][ccb-hms]
+- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/)
 - **Version:** iSEE {2.10.0}
 
-**More:** Those apps are listed at <https://moffittlab.connect.hms.harvard.edu/merfish/merfish_homepage.html>
+**More:** Those apps are listed at <https://moffittlab.connect.hms.harvard.edu/merfish/merfish_homepage.html>.
 
 ## Upload your own SummarizedExperiment (CCB HMS)
 
 - **URL:** <https://ccb-rstudio-connect.hms.harvard.edu/iSEE_enterprise/>
-- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School][ccb-hms]
+- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/)
 - **Version:** iSEE {2.4.0}
 
 ## Demonstration iSEE apps (2018)
@@ -43,5 +43,3 @@ List of known iSEE apps publicly deployed
 - **Version:** iSEE {1.2.4}
 
 **More:** Those apps are listed at <https://marionilab.cruk.cam.ac.uk/>, among other interactive apps from the same developer.
-
-[ccb-hms]: https://computationalbiomed.hms.harvard.edu/

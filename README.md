@@ -2,10 +2,19 @@
 
 List of known iSEE apps publicly deployed
 
+## Collection of single-cell data sets using iSEEindex
+
+- **URL:** <https://rehwinkellab.shinyapps.io/ifnresource/>
+- **Maintainer:** [Rehwinkel group](https://www.imm.ox.ac.uk/research/research-groups/rehwinkel-group-nucleic-acid-sensing)
+- **Version:** iSEE {2.12.0}, iSEEindex {0.99.13}, iSEEde {0.99.0}
+
+**More:** This app accompanies the biorXiv preprint [Single-cell analysis of signalling and transcriptional responses to type I interferons](https://www.biorxiv.org/content/10.1101/2023.07.03.547491v1).
+
 ## FGCZ Fancy Single Cell Explorer
 
 - **URL:** <https://fgcz-shiny.uzh.ch/fgcz_iSEE/>
 - **Maintainer:** [Functional Genomics Center Zurich (FGCZ)][fgcz-ch]
+- **Version:** iSEE {2.12.0}
 
 **More:** This app is listed at <https://fgcz-shiny.uzh.ch/connect/>, among other interactive apps from the same developer.
 
@@ -14,6 +23,7 @@ List of known iSEE apps publicly deployed
 - **URL (hypothalamus):** <https://moffittlab.connect.hms.harvard.edu/iSEE_hypothalamus/>
 - **URL (ileum):** <https://moffittlab.connect.hms.harvard.edu/iSEE_ileum/>
 - **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School][ccb-hms]
+- **Version:** iSEE {2.10.0}
 
 **More:** Those apps are listed at <https://moffittlab.connect.hms.harvard.edu/merfish/merfish_homepage.html>
 
@@ -21,11 +31,7 @@ List of known iSEE apps publicly deployed
 
 - **URL:** <https://ccb-rstudio-connect.hms.harvard.edu/iSEE_enterprise/>
 - **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School][ccb-hms]
-
-##
-
-- **URL:** <https://rehwinkellab.shinyapps.io/ifnresource/>
-- **Maintainer:** [Rehwinkel group](https://www.imm.ox.ac.uk/research/research-groups/rehwinkel-group-nucleic-acid-sensing)
+- **Version:** iSEE {2.4.0}
 
 ## Demonstration iSEE apps (2018)
 

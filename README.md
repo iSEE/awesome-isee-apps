@@ -10,6 +10,12 @@ List of known iSEE apps publicly deployed
 
 **More:** This app accompanies the biorXiv preprint [Single-cell analysis of signalling and transcriptional responses to type I interferons](https://www.biorxiv.org/content/10.1101/2023.07.03.547491v1).
 
+## Demonstration iSEEindex app (2023)
+
+- **URL:** <https://isee.shinyapps.io/iSEEindex-demo/>
+- **Maintainer:** [iSEE developers](https://github.com/iSEE)
+- **Version:** iSEE {2.12.0}, iSEEindex {0.99.8}
+
 ## FGCZ Fancy Single Cell Explorer
 
 - **URL:** <https://fgcz-shiny.uzh.ch/fgcz_iSEE/>

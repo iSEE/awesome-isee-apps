@@ -39,6 +39,14 @@ List of known iSEE apps publicly deployed
 - **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/)
 - **Version:** iSEE {2.4.0}
 
+## Spatially resolved transcriptomics of the inferior temporal cortex (pseudobulks)
+
+- **URL:** <https://libd.shinyapps.io/Visium_SPG_AD_pseudobulk_AD_pathology_wholegenome/>
+- **Maintainer:** [The Lieber Institute for Brain Development](https://www.libd.org/)
+- **Version:** iSEE {2.10.0}
+
+**More:** This app accompanies the article <https://doi.org/10.1101/2023.04.20.537710>
+
 ## Single-nucleus transcriptome analysis in human brain
 
 - **URL:** <https://libd.shinyapps.io/tran2020_Amyg/>
@@ -47,8 +55,8 @@ List of known iSEE apps publicly deployed
 - **URL:** <https://libd.shinyapps.io/tran2021_DLPFC/>
 - **URL:** <https://libd.shinyapps.io/tran2021_AMY/>
 - **URL:** <https://libd.shinyapps.io/tran2021_HPC/>
-- **Version:** iSEE {2.4.0}
 - **Maintainer:** [The Lieber Institute for Brain Development](https://www.libd.org/)
+- **Version:** iSEE {2.4.0}
 
 **More:** Those apps accompany the article <https://www.cell.com/neuron/fulltext/S0896-6273(21)00655-3>
 

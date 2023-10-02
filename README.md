@@ -58,6 +58,12 @@ List of known iSEE apps publicly deployed
 
 **More:** This app accompanies the article <https://doi.org/10.1101/2023.04.20.537710>
 
+## Myocyte data sets
+
+- **URL:** <https://shiny.mdc-berlin.de/MyoExplorer/>
+- **Maintainer:** [Max Delbrück Center](https://www.mdc-berlin.de/)
+- **Version:** iSEE {2.6.0}
+
 ## Single-nucleus transcriptome analysis in human brain
 
 - **URL:** <https://libd.shinyapps.io/tran2020_Amyg/>

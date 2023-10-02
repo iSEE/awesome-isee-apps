@@ -10,7 +10,7 @@ List of known iSEE apps publicly deployed
 
 **More:** This app accompanies the preprint [Single-cell analysis of signalling and transcriptional responses to type I interferons](https://www.biorxiv.org/content/10.1101/2023.07.03.547491v1).
 
-## iSEEindex demo (2023)
+## iSEEindex demo
 
 - **URL:** <https://isee.shinyapps.io/iSEEindex-demo/>
 - **Maintainer:** [iSEE developers](https://github.com/iSEE)
@@ -24,14 +24,25 @@ List of known iSEE apps publicly deployed
 
 **More:** This app is listed at <https://fgcz-shiny.uzh.ch/connect/>, among other interactive apps from the same developer.
 
-## MERFISH mouse data sets (CCB HMS & Moffitt laboratory)
+## MERFISH mouse data sets
 
 - **URL (hypothalamus):** <https://moffittlab.connect.hms.harvard.edu/iSEE_hypothalamus/>
 - **URL (ileum):** <https://moffittlab.connect.hms.harvard.edu/iSEE_ileum/>
-- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/)
+- **Maintainer:** [Center for Computational Biomedicine (CCB) Harvard Medical School](https://computationalbiomed.hms.harvard.edu/) and [Moffitt Lab](https://moffittlab.github.io/)
 - **Version:** iSEE {2.10.0}
 
 **More:** Those apps are listed at <https://moffittlab.connect.hms.harvard.edu/merfish/merfish_homepage.html>.
+
+## iSEE COVID Hub
+
+- **URL (B cells):** <http://shiny.imbei.uni-mainz.de:3838/iSEE_covidIT_Bcells/>
+- **URL (Monocytes):** <http://shiny.imbei.uni-mainz.de:3838/iSEE_covidIT_Monocytes>
+- **URL (NK cells):** <http://shiny.imbei.uni-mainz.de:3838/iSEE_covidIT_NKcells/>
+- **URL (T cells):** <http://shiny.imbei.uni-mainz.de:3838/iSEE_covidIT_Tcells>
+- **Maintainer:** [Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI)](https://www.unimedizin-mainz.de/imbei/imbei/welcome-page.html?L=1)
+- **Version:** iSEE {2.9.0}
+
+**More:** Those apps are listed at <http://shiny.imbei.uni-mainz.de:3838/iSEE_covidIT/>.
 
 ## Upload your own SummarizedExperiment (CCB HMS)
 

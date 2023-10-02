@@ -91,6 +91,12 @@ List of known iSEE apps publicly deployed
 - **Maintainer:** [Max Delbrück Center](https://www.mdc-berlin.de/)
 - **Version:** iSEE {1.6.1}
 
+## CD8 TILs from B16 melanoma tumors
+
+- **URL:** <https://tilatlas.shinyapps.io/B16_CD8TIL_10X/>
+- **Maintainer:** [Swiss Portal for Immune Cell Analysis](https://spica.unil.ch/)
+- **Version:** iSEE {1.2.4}
+
 ## Demonstration iSEE apps (2018)
 
 - **URL (single-cell RNA-seq, mouse visual cortex):** <https://marionilab.cruk.cam.ac.uk/iSEE_allen>

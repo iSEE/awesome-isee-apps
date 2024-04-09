@@ -2,6 +2,15 @@
 
 List of known iSEE apps publicly deployed
 
+## iSEE for proteome and phosphoproteome
+
+- **URL (proteome):** <https://kidneyapp.shinyapps.io/SGLT2i_proteome/>
+- **URL (phosphoproteome):** <https://kidneyapp.shinyapps.io/SGLT2i_phosphoproteome/>
+- **Maintainer:** Vallon and Rinschen labs (La Jolla/Aarhus)
+- **Version:** iSEE {2.8.0}, iSEEu {1.8.0}
+
+**More:** A set of proteomic and phosphoproteomic datasets containing measurements for 5 organs (kidney, liver, heart, skeletal muscle, white adipose tissue (WAT)) of 2 mouse strains. Accompanies the publication [Metabolic Communication by SGLT2 Inhibition](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.123.065517).
+
 ## Collection of single-cell data sets using iSEEindex
 
 - **URL:** <https://rehwinkellab.shinyapps.io/ifnresource/>
